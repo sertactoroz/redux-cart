@@ -1,7 +1,10 @@
 .cart {
-  max-width: 30rem;
+  max-width: 25rem;
   background-color: #313131;
   color: white;
+  position:absolute;
+  right:0;
+  
 }
 
 .cart h2 {
